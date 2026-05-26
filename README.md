@@ -9,7 +9,7 @@
 <p align="center">
   <strong style="color:#00FFCC;">CDM TECH 503 — CYBER LAB • ELITE OPS</strong>
 </p>
-<h1 align="center">⚡ CDM-OFF-V4 ⚡</h1>
+<h1 align="center">⚡ CDM-WA-OFF-V4 ⚡</h1>
 
 <p align="center">
   <b>CDM — Une famille immortelle qui domine le digital</b><br>
@@ -26,7 +26,7 @@
 
 ## 🧠 À propos
 
-**A-FBI-WA-OFF⚡** est une création de la légendaire **famille CDM**.  
+**CDM-WA-OFF-V4⚡** est une création de la légendaire **famille CDM**.  
 
 🔥 **CDM est une famille immortelle**, une force digitale qui évolue, conquiert et domine.  
 
@@ -60,11 +60,11 @@ bash
 
 pkg install git python -y
 
-git clone https://github.com/CDM-TECHNOLOGIE/CDM-OFF-V4
+git clone https://github.com/CDM-TECHNOLOGIE/CDM-WA-OFF-V4
 
-cd CDM-OFF-V4
+cd CDM-WA-OFF-V4
 
-python CDM-OFF-V4
+python CDM-WA-OFF-V4
 
 
 Faut fork le répo et rejoindre la chaîne pour que l'outil fonctionne
